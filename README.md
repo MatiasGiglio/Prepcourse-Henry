@@ -1,2 +1,2 @@
 # Prepcourse-Henry
-repositorio inicial del modulo 2 Prepcourse Henry
+Prueba de mi primer repositorio para el Prepcourse de Henry
